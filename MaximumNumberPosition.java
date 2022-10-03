@@ -32,7 +32,7 @@ public class MaximumNumberPosition {
             System.out.println(" Maximum number in 2nd Position ");
         }
         else
-            System.out.println("using anothet test case to check maximum number poition34");
+            System.out.println("Maximum number in 3rd Position");
 
 
     }
