@@ -28,6 +28,9 @@ public class MaximumNumberPosition {
 
         if (integerList.get(0) > integerList.get(1) && integerList.get(0) > integerList.get(2)) {
             System.out.println(" Maximum number in 1st Position ");}
+        else  if (integerList.get(1) > integerList.get(0) && integerList.get(1) > integerList.get(2)) {
+            System.out.println(" Maximum number in 2nd Position ");
+        }
         else
             System.out.println("using anothet test case to check maximum number poition34");
 
